@@ -1,1 +1,1 @@
-my git course for alx
+my git course for alx studies
